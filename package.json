@@ -1,0 +1,11 @@
+{
+  "name": "llama",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "chromadb": "^1.8.1",
+    "ollama": "^0.5.1"
+  }
+}
